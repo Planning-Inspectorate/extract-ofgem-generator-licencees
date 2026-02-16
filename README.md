@@ -6,9 +6,9 @@ Python and appropriate IDE installed to run the script
 
 ## Documentation for running
 
-Author/updater	Jo Gerulaitis
-Date	23/09/2025
-Version 	0.3
+* Author/updater: Jo Gerulaitis
+* Date: 23/09/2025
+* Version : 0.3
 
 
 ### Tasks for person with Python installed (EST updater):
