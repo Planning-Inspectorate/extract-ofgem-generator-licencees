@@ -14,6 +14,7 @@ Version 	0.3
 ### Tasks for person with Python installed (EST updater):
 
 #### Download the new Ofgem list (PDF) and extract users
-* Download the latest Ofgem list (PDF) file available at: https://www.ofgem.gov.uk/data/list-all-electricity-licensees-including-suppliers and save to directory Python scripts are stored in in the format electricity_licencees_YYYYMMDD.pdf where the date is the date in the PDF, not the date of download.
-* Open extractOfgemLicenceesPDF.py in an IDE. Update the ofgem_pdf_filename variable to reflect the file name of the PDF saved above.
+* Clone or download this directory to your local machine
+* Download the latest Ofgem list (PDF) file available at: https://www.ofgem.gov.uk/data/list-all-electricity-licensees-including-suppliers and save to your cloned/downloaded directory in the form electricity_licencees_YYYYMMDD.pdf where the date is the date in the PDF, not the date of download.
+* Open extractOfgemLicenceesPDF.py in an IDE (Integrated Development Environment) such as Spyder or Visual Studio Code. Update the ofgem_pdf_filename variable to reflect the file name of the PDF saved above.
 * Run the file. You should now see a comma separated value file of the form “electricity_licencees_YYYYMMDD.csv”
