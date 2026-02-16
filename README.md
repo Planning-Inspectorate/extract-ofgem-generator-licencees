@@ -11,7 +11,7 @@ Python and appropriate IDE installed to run the script
 * Version : 0.3
 
 
-### Tasks for person with Python installed (EST updater):
+### Tasks for person with Python installed:
 
 #### Download the new Ofgem list (PDF) and extract users
 * Clone or download this directory to your local machine
